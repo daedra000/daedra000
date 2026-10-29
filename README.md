@@ -37,6 +37,13 @@
 - **[Setup Wizard](https://ps3.world/setup-wizard)** — your personal install checklist
 - **[Error Codes](https://ps3.world/error-codes)** · **[Controller Identifier](https://ps3.world/controller-identifier)** · **[Glossary](https://ps3.world/glossary)**
 
+## My PS3 Ports
+
+| | |
+|---|---|
+| **[Nazi Zombies: Portable — PS3](https://github.com/daedra000/nzp-ps3)** | NZ:P on PS3 with PlayStation button glyphs and a ready-to-install PKG. **Preview build coming soon.** |
+| **[Tony Hawk's Underground — PS3](https://github.com/daedra000/thug-ps3)** | THUG on PS3, built on the kisak-thug source (bring your own game data). **Fully playable.** |
+
 ## Extras
 
 - **[PS3 Exclusives](https://ps3.world/exclusives)** — 93 games you can still only play on a PS3
