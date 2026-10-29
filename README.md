@@ -41,8 +41,8 @@
 
 | | |
 |---|---|
-| **[Nazi Zombies: Portable — PS3](https://github.com/daedra000/nzp-ps3)** | NZ:P on PS3 with PlayStation button glyphs and a ready-to-install PKG. **Preview build out now.** |
-| **[Tony Hawk's Underground — PS3](https://github.com/daedra000/thug-ps3)** | THUG on PS3, built on the kisak-thug source (bring your own game data). **Work in Progress** |
+| **[Nazi Zombies: Portable](https://github.com/daedra000/nzp-ps3)** | NZ:P on PS3 with PlayStation button glyphs and a ready-to-install PKG. **Preview build out now.** |
+| **[Tony Hawk's Underground](https://github.com/daedra000/thug-ps3)** | THUG on PS3, built on the kisak-thug source (bring your own game data). **Work in Progress** |
 
 ## Extras
 
