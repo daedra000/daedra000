@@ -13,31 +13,31 @@
 
 ---
 
-## 🕹️ Explore
+## Explore
 
 | | |
 |---|---|
-| 🎮 **[Homebrew](https://ps3.world/homebrew)** | Homebrew tools and games, PC ports, emulators, fan translations and edits for HEN & CFW |
-| 🛠️ **[Tools](https://ps3.world/tools)** | ISO, save, cover, theme and dev tools for your PC |
-| 🎨 **[Themes](https://ps3.world/themes)** | Hand-picked custom themes to customise your XMB |
-| 📚 **[Resources](https://ps3.world/resources)** | Getting started, forums, wikis, online multiplayer and cover art |
+| **[Homebrew](https://ps3.world/homebrew)** | Homebrew tools and games, PC ports, emulators, fan translations and edits for HEN & CFW |
+| **[Tools](https://ps3.world/tools)** | ISO, save, cover, theme and dev tools for your PC |
+| **[Themes](https://ps3.world/themes)** | Hand-picked custom themes to customise your XMB |
+| **[Resources](https://ps3.world/resources)** | Getting started, forums, wikis, online multiplayer and cover art |
 
-## 🗄️ Archives
+## Archives
 
 | | |
 |---|---|
-| 🖼️ **[Theme Archive](https://themes.ps3.world/)** | The preserved ps3-themes.com & bestps3themes.com collection |
-| 👤 **[Avatar Archive](https://avatars.ps3.world/)** | PlayStation® 3 avatars by game, bundle or region |
-| 📖 **[Manuals Archive](https://manuals.ps3.world/)** | Scanned game manuals, strategy guides and inserts, readable in your browser |
+| **[Theme Archive](https://themes.ps3.world/)** | The preserved ps3-themes.com & bestps3themes.com collection |
+| **[Avatar Archive](https://avatars.ps3.world/)** | PlayStation® 3 avatars by game, bundle or region |
+| **[Manuals Archive](https://manuals.ps3.world/)** | Scanned game manuals, strategy guides and inserts, readable in your browser |
 
-## ❓ Help
+## Help
 
 - **[Can my PS3 be hacked?](https://ps3.world/jailbreak-checker)** — HEN & CFW support by model
 - **[Which PS3 should I buy?](https://ps3.world/which-ps3)** — the best model for what you want
 - **[Setup Wizard](https://ps3.world/setup-wizard)** — your personal install checklist
 - **[Error Codes](https://ps3.world/error-codes)** · **[Controller Identifier](https://ps3.world/controller-identifier)** · **[Glossary](https://ps3.world/glossary)**
 
-## 🎲 Extras
+## Extras
 
 - **[PS3 Exclusives](https://ps3.world/exclusives)** — 93 games you can still only play on a PS3
 - **[Random Game](https://ps3.world/random-game)** — can't decide? Let it pick
