@@ -37,12 +37,13 @@
 - **[Setup Wizard](https://ps3.world/setup-wizard)** — your personal install checklist
 - **[Error Codes](https://ps3.world/error-codes)** · **[Controller Identifier](https://ps3.world/controller-identifier)** · **[Glossary](https://ps3.world/glossary)**
 
-## My PS3 Ports
+## My PS3 Projects
 
 | | |
 |---|---|
 | **[Nazi Zombies: Portable](https://github.com/daedra000/nzp-ps3)** | NZ:P on PS3 with PlayStation button glyphs and a ready-to-install PKG. **Preview build out now.** |
 | **[Tony Hawk's Underground](https://github.com/daedra000/thug-ps3)** | THUG on PS3, built on the kisak-thug source (bring your own game data). **Work in Progress** |
+| **[CellPlex]([https://github.com/daedra000/thug-ps3](https://github.com/daedra000/CellPlex))** | CellPlex is a music player for PS3 via Plex.. **Work in Progress** |
 
 ## Extras
 
