@@ -43,7 +43,7 @@
 |---|---|
 | **[Nazi Zombies: Portable](https://github.com/daedra000/nzp-ps3)** | NZ:P on PS3 with PlayStation button glyphs and a ready-to-install PKG. **Preview build out now.** |
 | **[Tony Hawk's Underground](https://github.com/daedra000/thug-ps3)** | THUG on PS3, built on the kisak-thug source (bring your own game data). **Work in Progress** |
-| **[CellMusicPlayer via Plex](https://github.com/daedra000/CellMusicPlayer)** | A music player for PS3 via Plex.. **Work in Progress** |
+| **[Resonant via Plex](https://github.com/daedra000/Resonant-PS3)** | A music player for PS3 via Plex.. **Work in Progress** |
 
 ## Extras
 
