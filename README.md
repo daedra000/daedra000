@@ -42,10 +42,15 @@
 | | |
 |---|---|
 | **[Grid Siege](https://github.com/daedra000/gridsiege-ps3)** | Top-down zombie survival with the same core rules as the Flash classic, Boxhead. |
-| **[Nazi Zombies: Portable](https://github.com/daedra000/nzp-ps3)** | NZ:P on PS3 with PlayStation button glyphs and a ready-to-install PKG. **Preview build out now.** |
 | **[Tony Hawk's Underground](https://github.com/daedra000/thug-ps3)** | THUG on PS3, built on the kisak-thug source (bring your own game data). **Work in Progress** |
 | **[Resonant via Plex](https://github.com/daedra000/Resonant-PS3)** | A music player for PS3 via Plex. |
 | **[PS3 World App](https://github.com/daedra000/ps3world-app)** | Browse PS3 World on the console and download homebrew, themes, and avatars straight from dl.ps3.world, without a PC. |
+
+## Retired Projects
+| | |
+|---|---|
+| **[Nazi Zombies: Portable](https://github.com/daedra000/nzp-ps3)** | NZ:P on PS3 with PlayStation button glyphs and a ready-to-install PKG. |
+
 
 ## Extras
 
