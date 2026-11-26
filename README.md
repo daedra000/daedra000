@@ -42,20 +42,16 @@
 | | |
 |---|---|
 | **[Grid Siege](https://github.com/daedra000/gridsiege-ps3)** | Top-down zombie survival with the same core rules as the Flash classic, Boxhead. |
+| **[Dirt Rich](https://github.com/daedra000/gridsiege-ps3)** | Pilot a drilling pod into a procedurally generated mountain.|
 | **[Tony Hawk's Underground](https://github.com/daedra000/thug-ps3)** | THUG on PS3, built on the kisak-thug source (bring your own game data). **Work in Progress** |
 | **[Resonant via Plex](https://github.com/daedra000/Resonant-PS3)** | A music player for PS3 via Plex. |
 | **[PS3 World App](https://github.com/daedra000/ps3world-app)** | Browse PS3 World on the console and download homebrew, themes, and avatars straight from dl.ps3.world, without a PC. |
+| **[HDD Atlas](https://github.com/daedra000/hdd-atlas-ps3)** | Shows what’s using the space on your PS3 HDD and USB drives. It scans a drive and sorts everything into games, disc backups, saves, themes, media, packages and system data, shown as a ring chart you can open right down to the last file.|
 
 ## Retired Projects
 | | |
 |---|---|
 | **[Nazi Zombies: Portable](https://github.com/daedra000/nzp-ps3)** | NZ:P on PS3 with PlayStation button glyphs and a ready-to-install PKG. |
-
-
-## Extras
-
-- **[PS3 Exclusives](https://ps3.world/exclusives)** — 93 games you can still only play on a PS3
-- **[Random Game](https://ps3.world/random-game)** — can't decide? Let it pick
 
 ---
 
