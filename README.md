@@ -47,6 +47,7 @@
 | **[Resonant via Plex](https://github.com/daedra000/Resonant-PS3)** | A music player for PS3 via Plex. |
 | **[PS3 World App](https://github.com/daedra000/ps3world-app)** | Browse PS3 World on the console and download homebrew, themes, and avatars straight from dl.ps3.world, without a PC. |
 | **[HDD Atlas](https://github.com/daedra000/hdd-atlas-ps3)** | Shows what’s using the space on your PS3 HDD and USB drives. It scans a drive and sorts everything into games, disc backups, saves, themes, media, packages and system data, shown as a ring chart you can open right down to the last file.|
+| **[GBA Forge for PS3](https://github.com/daedra000/gba-forge-ps3)** | Turns a Game Boy Advance, Game Boy or Game Boy Color game you own into its own PS3 .pkg|
 
 ## Retired Projects
 | | |
